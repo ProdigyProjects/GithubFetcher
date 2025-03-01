@@ -1,0 +1,8 @@
+
+fastapi
+httpx
+loguru
+pytest
+tenacity
+python-dotenv
+uvicorn
